@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 6eafba0f8e8a1414faac8ead0e32c1d6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Be_Eyelids
+    100004: Be_HeadEnd01
+    100006: Be_JawEnd01
+    100008: Be_L_Ear03
+    100010: Be_L_FingersBKEnd01
+    100012: Be_L_FingersFTEnd01
+    100014: Be_R_Ear03
+    100016: Be_R_FingersBKEnd01
+    100018: Be_R_FingersFTEnd01
+    100020: Be_Tail011
+    100022: Be_Vertebrae06
+    100024: Bn_Cervical01
+    100026: Bn_Head01
+    100028: Bn_Ilium01
+    100030: Bn_Jaw01
+    100032: Bn_L_Carpal01
+    100034: Bn_L_Ear01
+    100036: Bn_L_Ear02
+    100038: Bn_L_Elbow01
+    100040: Bn_L_FingersBK01
+    100042: Bn_L_FingersFT01
+    100044: Bn_L_Heel01
+    100046: Bn_L_Hip01
+    100048: Bn_L_Knee01
+    100050: Bn_L_Scapula01
+    100052: Bn_L_Shoulder01
+    100054: Bn_R_Carpal01
+    100056: Bn_R_Ear01
+    100058: Bn_R_Ear02
+    100060: Bn_R_Elbow01
+    100062: Bn_R_FingersBK01
+    100064: Bn_R_FingersFT01
+    100066: Bn_R_Heel01
+    100068: Bn_R_Hip01
+    100070: Bn_R_Knee01
+    100072: Bn_R_Scapula01
+    100074: Bn_R_Shoulder01
+    100076: Bn_Tail01
+    100078: Bn_Tail010
+    100080: Bn_Tail02
+    100082: Bn_Tail03
+    100084: Bn_Tail04
+    100086: Bn_Tail05
+    100088: Bn_Tail06
+    100090: Bn_Tail07
+    100092: Bn_Tail08
+    100094: Bn_Tail09
+    100096: Bn_TailConnection01
+    100098: Bn_Vertebrae01
+    100100: Bn_Vertebrae02
+    100102: Bn_Vertebrae03
+    100104: Bn_Vertebrae04
+    100106: Bn_Vertebrae05
+    100108: Bones01
+    100110: Br_Main01
+    100112: ControlCurves01
+    100114: Geo01
+    100116: GlobalControl01
+    100118: GlobalScale01
+    100120: Grp_Bn_Tail01
+    100122: Grp_Cc_Thoracic01
+    100124: Grp_Model_Eyelids
+    100126: Grp_Model_L_Eye
+    100128: Grp_Model_L_Tuft
+    100130: Grp_Model_R_Eye
+    100132: Grp_Model_R_Tuft
+    100134: Grp_Model_Theet
+    100136: IKs01
+    100138: Model_Body
+    100140: Model_L_EyeCornea
+    100142: Model_L_EyeIris
+    100144: Model_L_Eyelid
+    100146: Model_L_GrtTuft
+    100148: Model_L_PlaneTuft
+    100150: Model_L_SigleLowerfTuft
+    100152: Model_L_SigleUpperTuft
+    100154: Model_LowerTheet
+    100156: Model_R_EyeCornea
+    100158: Model_R_EyeIris
+    100160: Model_R_Eyelid
+    100162: Model_R_GrtTuft
+    100164: Model_R_PlaneTuft
+    100166: Model_R_SigleLowerfTuft
+    100168: Model_R_SigleUpperTuft
+    100170: Model_UpperTheet
+    400000: //RootNode
+    400002: Be_Eyelids
+    400004: Be_HeadEnd01
+    400006: Be_JawEnd01
+    400008: Be_L_Ear03
+    400010: Be_L_FingersBKEnd01
+    400012: Be_L_FingersFTEnd01
+    400014: Be_R_Ear03
+    400016: Be_R_FingersBKEnd01
+    400018: Be_R_FingersFTEnd01
+    400020: Be_Tail011
+    400022: Be_Vertebrae06
+    400024: Bn_Cervical01
+    400026: Bn_Head01
+    400028: Bn_Ilium01
+    400030: Bn_Jaw01
+    400032: Bn_L_Carpal01
+    400034: Bn_L_Ear01
+    400036: Bn_L_Ear02
+    400038: Bn_L_Elbow01
+    400040: Bn_L_FingersBK01
+    400042: Bn_L_FingersFT01
+    400044: Bn_L_Heel01
+    400046: Bn_L_Hip01
+    400048: Bn_L_Knee01
+    400050: Bn_L_Scapula01
+    400052: Bn_L_Shoulder01
+    400054: Bn_R_Carpal01
+    400056: Bn_R_Ear01
+    400058: Bn_R_Ear02
+    400060: Bn_R_Elbow01
+    400062: Bn_R_FingersBK01
+    400064: Bn_R_FingersFT01
+    400066: Bn_R_Heel01
+    400068: Bn_R_Hip01
+    400070: Bn_R_Knee01
+    400072: Bn_R_Scapula01
+    400074: Bn_R_Shoulder01
+    400076: Bn_Tail01
+    400078: Bn_Tail010
+    400080: Bn_Tail02
+    400082: Bn_Tail03
+    400084: Bn_Tail04
+    400086: Bn_Tail05
+    400088: Bn_Tail06
+    400090: Bn_Tail07
+    400092: Bn_Tail08
+    400094: Bn_Tail09
+    400096: Bn_TailConnection01
+    400098: Bn_Vertebrae01
+    400100: Bn_Vertebrae02
+    400102: Bn_Vertebrae03
+    400104: Bn_Vertebrae04
+    400106: Bn_Vertebrae05
+    400108: Bones01
+    400110: Br_Main01
+    400112: ControlCurves01
+    400114: Geo01
+    400116: GlobalControl01
+    400118: GlobalScale01
+    400120: Grp_Bn_Tail01
+    400122: Grp_Cc_Thoracic01
+    400124: Grp_Model_Eyelids
+    400126: Grp_Model_L_Eye
+    400128: Grp_Model_L_Tuft
+    400130: Grp_Model_R_Eye
+    400132: Grp_Model_R_Tuft
+    400134: Grp_Model_Theet
+    400136: IKs01
+    400138: Model_Body
+    400140: Model_L_EyeCornea
+    400142: Model_L_EyeIris
+    400144: Model_L_Eyelid
+    400146: Model_L_GrtTuft
+    400148: Model_L_PlaneTuft
+    400150: Model_L_SigleLowerfTuft
+    400152: Model_L_SigleUpperTuft
+    400154: Model_LowerTheet
+    400156: Model_R_EyeCornea
+    400158: Model_R_EyeIris
+    400160: Model_R_Eyelid
+    400162: Model_R_GrtTuft
+    400164: Model_R_PlaneTuft
+    400166: Model_R_SigleLowerfTuft
+    400168: Model_R_SigleUpperTuft
+    400170: Model_UpperTheet
+    2300000: Model_L_Eyelid
+    2300002: Model_R_Eyelid
+    3300000: Model_L_Eyelid
+    3300002: Model_R_Eyelid
+    4300000: Model_Body
+    4300002: Model_UpperTheet
+    4300004: Model_LowerTheet
+    4300006: Model_L_SigleUpperTuft
+    4300008: Model_L_SigleLowerfTuft
+    4300010: Model_L_PlaneTuft
+    4300012: Model_L_GrtTuft
+    4300014: Model_R_SigleUpperTuft
+    4300016: Model_R_SigleLowerfTuft
+    4300018: Model_R_PlaneTuft
+    4300020: Model_R_GrtTuft
+    4300022: Model_R_EyeIris
+    4300024: Model_R_EyeCornea
+    4300026: Model_L_EyeIris
+    4300028: Model_L_EyeCornea
+    4300030: Model_R_Eyelid
+    4300032: Model_L_Eyelid
+    7400000: newIdle
+    7400002: newWalk
+    7400004: newRun
+    7400006: newJump
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Model_Body
+    13700002: Model_L_EyeCornea
+    13700004: Model_L_EyeIris
+    13700006: Model_L_GrtTuft
+    13700008: Model_L_PlaneTuft
+    13700010: Model_L_SigleLowerfTuft
+    13700012: Model_L_SigleUpperTuft
+    13700014: Model_LowerTheet
+    13700016: Model_R_EyeCornea
+    13700018: Model_R_EyeIris
+    13700020: Model_R_GrtTuft
+    13700022: Model_R_PlaneTuft
+    13700024: Model_R_SigleLowerfTuft
+    13700026: Model_R_SigleUpperTuft
+    13700028: Model_UpperTheet
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: newIdle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo01
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_L_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_R_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_Theet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_LowerTheet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_UpperTheet
+        weight: 1
+      - path: Geo01/Model_Body
+        weight: 1
+      - path: GlobalControl01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01/Be_L_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01/Be_R_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010/Be_Tail011
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_Eyelids
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_HeadEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01/Be_JawEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02/Be_L_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02/Be_R_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01/Be_L_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01/Be_R_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01/Grp_Cc_Thoracic01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/IKs01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: newWalk
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo01
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_L_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_R_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_Theet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_LowerTheet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_UpperTheet
+        weight: 1
+      - path: Geo01/Model_Body
+        weight: 1
+      - path: GlobalControl01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01/Be_L_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01/Be_R_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010/Be_Tail011
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_Eyelids
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_HeadEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01/Be_JawEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02/Be_L_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02/Be_R_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01/Be_L_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01/Be_R_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01/Grp_Cc_Thoracic01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/IKs01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: newRun
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 86
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo01
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_L_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_R_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_Theet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_LowerTheet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_UpperTheet
+        weight: 1
+      - path: Geo01/Model_Body
+        weight: 1
+      - path: GlobalControl01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01/Be_L_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01/Be_R_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010/Be_Tail011
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_Eyelids
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_HeadEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01/Be_JawEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02/Be_L_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02/Be_R_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01/Be_L_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01/Be_R_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01/Grp_Cc_Thoracic01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/IKs01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: newJump
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Geo01
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_L_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_Eyelids/Model_R_Eyelid
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_L_Eye/Model_L_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_L_Tuft/Model_L_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeCornea
+        weight: 1
+      - path: Geo01/Grp_Model_R_Eye/Model_R_EyeIris
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_GrtTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_PlaneTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleLowerfTuft
+        weight: 1
+      - path: Geo01/Grp_Model_R_Tuft/Model_R_SigleUpperTuft
+        weight: 1
+      - path: Geo01/Grp_Model_Theet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_LowerTheet
+        weight: 1
+      - path: Geo01/Grp_Model_Theet/Model_UpperTheet
+        weight: 1
+      - path: Geo01/Model_Body
+        weight: 1
+      - path: GlobalControl01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_L_Hip01/Bn_L_Knee01/Bn_L_Heel01/Bn_L_FingersBK01/Be_L_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_R_Hip01/Bn_R_Knee01/Bn_R_Heel01/Bn_R_FingersBK01/Be_R_FingersBKEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Ilium01/Bn_TailConnection01/Grp_Bn_Tail01/Bn_Tail01/Bn_Tail02/Bn_Tail03/Bn_Tail04/Bn_Tail05/Bn_Tail06/Bn_Tail07/Bn_Tail08/Bn_Tail09/Bn_Tail010/Be_Tail011
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_Eyelids
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Be_HeadEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_Jaw01/Be_JawEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_L_Ear01/Bn_L_Ear02/Be_L_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_Cervical01/Bn_Head01/Bn_R_Ear01/Bn_R_Ear02/Be_R_Ear03
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_L_Scapula01/Bn_L_Shoulder01/Bn_L_Elbow01/Bn_L_Carpal01/Bn_L_FingersFT01/Be_L_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/Bones01/Br_Main01/Bn_Vertebrae01/Bn_Vertebrae02/Bn_Vertebrae03/Bn_Vertebrae04/Bn_Vertebrae05/Be_Vertebrae06/Bn_R_Scapula01/Bn_R_Shoulder01/Bn_R_Elbow01/Bn_R_Carpal01/Bn_R_FingersFT01/Be_R_FingersFTEnd01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/ControlCurves01/Grp_Cc_Thoracic01
+        weight: 1
+      - path: GlobalControl01/GlobalScale01/IKs01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

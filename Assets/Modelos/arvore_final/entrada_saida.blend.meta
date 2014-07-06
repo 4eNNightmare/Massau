@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: e8fd6fc6ba04e924f95f82e05da868aa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_001
+    100004: Circle_001_MeshPart0
+    100006: Circle_001_MeshPart1
+    100008: Circle_001_MeshPart2
+    100010: Circle_001_MeshPart3
+    100012: Circle_001_MeshPart4
+    100014: Circle_001_MeshPart5
+    100016: Circle_001_MeshPart6
+    100018: //RootNode
+    100020: Plane
+    100022: Plane_001
+    100024: Plane_002
+    100026: Plane_003
+    100028: Plane_004
+    100030: Plane_005
+    100032: Plane_006
+    100034: Plane_007
+    100036: Plane_008
+    100038: Plane_009
+    100040: Plane_010
+    100042: Plane_011
+    100044: Plane_012
+    100046: Plane_013
+    100048: Plane_014
+    100050: Plane_015
+    100052: Plane_016
+    100054: Plane_017
+    100056: Plane_018
+    100058: Plane_019
+    100060: Plane_020
+    100062: Plane_021
+    100064: Plane_022
+    100066: Plane_023
+    100068: Plane_000
+    100070: Armature
+    100072: Bone
+    100074: Bone_001
+    100076: Bone_002
+    100078: Bone_003
+    100080: Bone_004
+    100082: Bone_005
+    100084: Bone_006
+    100086: Bone_007
+    100088: Bone_008
+    100090: Bone_009
+    100092: Bone_010
+    100094: Bone_011
+    100096: Bone_012
+    100098: Bone_013
+    100100: Bone_014
+    100102: Bone_015
+    100104: Bone_016
+    100106: Bone_017
+    100108: Bone_018
+    100110: Bone_019
+    100112: Bone_020
+    100114: Bone_021
+    100116: Bone_022
+    400000: Circle
+    400002: Circle_001
+    400004: Circle_001_MeshPart0
+    400006: Circle_001_MeshPart1
+    400008: Circle_001_MeshPart2
+    400010: Circle_001_MeshPart3
+    400012: Circle_001_MeshPart4
+    400014: Circle_001_MeshPart5
+    400016: Circle_001_MeshPart6
+    400018: //RootNode
+    400020: Plane
+    400022: Plane_001
+    400024: Plane_002
+    400026: Plane_003
+    400028: Plane_004
+    400030: Plane_005
+    400032: Plane_006
+    400034: Plane_007
+    400036: Plane_008
+    400038: Plane_009
+    400040: Plane_010
+    400042: Plane_011
+    400044: Plane_012
+    400046: Plane_013
+    400048: Plane_014
+    400050: Plane_015
+    400052: Plane_016
+    400054: Plane_017
+    400056: Plane_018
+    400058: Plane_019
+    400060: Plane_020
+    400062: Plane_021
+    400064: Plane_022
+    400066: Plane_023
+    400068: Plane_000
+    400070: Armature
+    400072: Bone
+    400074: Bone_001
+    400076: Bone_002
+    400078: Bone_003
+    400080: Bone_004
+    400082: Bone_005
+    400084: Bone_006
+    400086: Bone_007
+    400088: Bone_008
+    400090: Bone_009
+    400092: Bone_010
+    400094: Bone_011
+    400096: Bone_012
+    400098: Bone_013
+    400100: Bone_014
+    400102: Bone_015
+    400104: Bone_016
+    400106: Bone_017
+    400108: Bone_018
+    400110: Bone_019
+    400112: Bone_020
+    400114: Bone_021
+    400116: Bone_022
+    2300000: Circle
+    2300002: Circle_001_MeshPart0
+    2300004: Circle_001_MeshPart1
+    2300006: Circle_001_MeshPart2
+    2300008: Circle_001_MeshPart3
+    2300010: Circle_001_MeshPart4
+    2300012: Circle_001_MeshPart5
+    2300014: Circle_001_MeshPart6
+    2300016: Plane
+    2300018: Plane_001
+    2300020: Plane_002
+    2300022: Plane_003
+    2300024: Plane_004
+    2300026: Plane_005
+    2300028: Plane_006
+    2300030: Plane_007
+    2300032: Plane_008
+    2300034: Plane_009
+    2300036: Plane_010
+    2300038: Plane_011
+    2300040: Plane_012
+    2300042: Plane_013
+    2300044: Plane_014
+    2300046: Plane_015
+    2300048: Plane_016
+    2300050: Plane_017
+    2300052: Plane_018
+    2300054: Plane_019
+    2300056: Plane_020
+    2300058: Plane_021
+    2300060: Plane_022
+    2300062: Plane_023
+    2300064: Plane_000
+    3300000: Circle
+    3300002: Circle_001_MeshPart0
+    3300004: Circle_001_MeshPart1
+    3300006: Circle_001_MeshPart2
+    3300008: Circle_001_MeshPart3
+    3300010: Circle_001_MeshPart4
+    3300012: Circle_001_MeshPart5
+    3300014: Circle_001_MeshPart6
+    3300016: Plane
+    3300018: Plane_001
+    3300020: Plane_002
+    3300022: Plane_003
+    3300024: Plane_004
+    3300026: Plane_005
+    3300028: Plane_006
+    3300030: Plane_007
+    3300032: Plane_008
+    3300034: Plane_009
+    3300036: Plane_010
+    3300038: Plane_011
+    3300040: Plane_012
+    3300042: Plane_013
+    3300044: Plane_014
+    3300046: Plane_015
+    3300048: Plane_016
+    3300050: Plane_017
+    3300052: Plane_018
+    3300054: Plane_019
+    3300056: Plane_020
+    3300058: Plane_021
+    3300060: Plane_022
+    3300062: Plane_023
+    3300064: Plane_000
+    4300000: Circle_001_MeshPart0
+    4300002: Circle_001_MeshPart1
+    4300004: Circle_001_MeshPart2
+    4300006: Circle_001_MeshPart3
+    4300008: Circle_001_MeshPart4
+    4300010: Circle_001_MeshPart5
+    4300012: Circle_001_MeshPart6
+    4300014: Circle
+    4300016: Plane_023
+    4300018: Plane_022
+    4300020: Plane_021
+    4300022: Plane_020
+    4300024: Plane_019
+    4300026: Plane_018
+    4300028: Plane_017
+    4300030: Plane_016
+    4300032: Plane_015
+    4300034: Plane_014
+    4300036: Plane_013
+    4300038: Plane_012
+    4300040: Plane_011
+    4300042: Plane_010
+    4300044: Plane_009
+    4300046: Plane_008
+    4300048: Plane_007
+    4300050: Plane_006
+    4300052: Plane_005
+    4300054: Plane_004
+    4300056: Plane_003
+    4300058: Plane_002
+    4300060: Plane_001
+    4300062: Plane
+    4300064: Plane_000
+    7400000: balanca
+    7400002: ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Plane_000
+    13700002: Plane_009
+    13700004: Plane_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: balanca
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_003
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_016
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_016/Bone_017
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_018
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_018/Bone_019
+        weight: 1
+      - path: Armature/Bone/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_004/Bone_012
+        weight: 1
+      - path: Armature/Bone/Bone_004/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone/Bone_004/Bone_014
+        weight: 1
+      - path: Armature/Bone/Bone_004/Bone_014/Bone_015
+        weight: 1
+      - path: Armature/Bone_002
+        weight: 1
+      - path: Armature/Bone_002/Bone_009
+        weight: 1
+      - path: Armature/Bone_002/Bone_009/Bone_010
+        weight: 1
+      - path: Armature/Bone_002/Bone_009/Bone_010/Bone_011
+        weight: 1
+      - path: Armature/Bone_006
+        weight: 1
+      - path: Armature/Bone_006/Bone_007
+        weight: 1
+      - path: Armature/Bone_006/Bone_007/Bone_008
+        weight: 1
+      - path: Armature/Bone_020
+        weight: 1
+      - path: Armature/Bone_020/Bone_021
+        weight: 1
+      - path: Armature/Bone_020/Bone_021/Bone_022
+        weight: 1
+      - path: Circle
+        weight: 1
+      - path: Plane_000
+        weight: 1
+      - path: Plane_001
+        weight: 1
+      - path: Plane_009
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
