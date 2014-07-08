@@ -11,13 +11,7 @@
 	
 	public static var poder_correr : boolean = false;
 	public var publicPodeCorrer : boolean = false;
-	public var jumpSound1 : AudioClip;
-	public var jumpSound2 : AudioClip;
-	public var jumpSound3 : AudioClip;
-	public var jumpSound4 : AudioClip;
-	public var jumpSound5 : AudioClip;
-	private var randomNumber : int;
-	
+	public var jumpSound : AudioClip;
 	private var correr : boolean = false;
 	private var frente : boolean = true;
 	private var animacao : int;
@@ -30,10 +24,9 @@ function Start () {
 	gravidade = gravidade * 60;
 	jogador = GetComponent(CharacterController);
 	animation.CrossFade("newIdle");
-	animation["newWalk"].speed = 2.0;
+	animation["newWalk"].speed = 2.5;
 	animation["newRun"].speed = 1.5;
 	animation["newJump"].speed = 0.5;
-	
 }
 
 function Update(){
@@ -41,22 +34,7 @@ function Update(){
 		animacao = 0;
 		if(Input.GetButtonDown("Jump")&&(jogador.isGrounded)){
 			velocidadeY = pulo;
-			randomNumber = Random.Range(0,100);
-			if((randomNumber >= 0) && (randomNumber <= 20)){
-				AudioSource.PlayClipAtPoint(jumpSound1, transform.position);
-			}
-			else if ((randomNumber > 20) && (randomNumber <= 40)){
-				AudioSource.PlayClipAtPoint(jumpSound2, transform.position);
-			}
-			else if ((randomNumber > 40) && (randomNumber <= 60)){
-				AudioSource.PlayClipAtPoint(jumpSound3, transform.position);
-			}
-			else if ((randomNumber > 60) && (randomNumber <= 80)){
-				AudioSource.PlayClipAtPoint(jumpSound4, transform.position);
-			}
-			else{
-				AudioSource.PlayClipAtPoint(jumpSound5, transform.position);
-			}
+			AudioSource.PlayClipAtPoint(jumpSound, transform.position, 0.5 );
 		}
 		
 		

@@ -1,8 +1,8 @@
 ﻿#pragma strict
 
-public var sound : AudioClip;
+public var NextLevelSound : AudioClip;
 private var timeJogador : int[];
-private var timeMedio : int[];
+public var timeMedio : int[];
 static public var pontuacao : float[];
 static public var coletado : int = 0;
 static public var pontuacaoTotal : float[];
@@ -62,7 +62,9 @@ function OnTriggerEnter( other : Collider )
 {
 	if ( other.gameObject.name == "personagem" )
 	{
-		Debug.Log(timeMedio[Application.loadedLevel]);
+		Debug.Log("Tempo Medio: " + timeMedio[Application.loadedLevel]);
+		Debug.Log("Pegou Colecionavel? " + pegarColec[Application.loadedLevel]);
+		Debug.Log("Pegou Pagina Perdida? " + pegarPag[Application.loadedLevel]);  
 		Cronometro.run = false;
 		
 		//Calculo Pontuaçao Tempo
@@ -94,12 +96,12 @@ function OnTriggerEnter( other : Collider )
 			pegarPag[Application.loadedLevel] = true;
 		}
 		
-		Debug.Log(pontuacaoTotal[Application.loadedLevel]);
+		Debug.Log("Pontuaçao Total: " + pontuacaoTotal[Application.loadedLevel]);
 
 		Application.LoadLevelAdditive("InterfScore2");
-		AudioSource.PlayClipAtPoint(sound, transform.position);
+		AudioSource.PlayClipAtPoint(NextLevelSound, transform.position);
 		Time.timeScale = 0;
-		Debug.Log(pontuacao[Application.loadedLevel]);
+		Debug.Log("Pontuaçao: " + pontuacao[Application.loadedLevel]);
 	
 	}
 }
